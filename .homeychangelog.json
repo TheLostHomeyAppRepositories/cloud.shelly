@@ -1087,5 +1087,8 @@
   },
   "3.65.2": {
     "en": "Maintenance update"
+  },
+  "3.66.0": {
+    "en": "Allow BLU H&T ZB to be discovered with cloud driver"
   }
 }
